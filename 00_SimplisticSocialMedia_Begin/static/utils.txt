@@ -1,0 +1,26 @@
+Post Icons 
+----------
+<i class="bi bi-send"></i> (Post)
+<i class="bi bi-send-check"></i> (Done)
+<i class="bi bi-send-exclamation"></i> (Warning)
+
+Thumbs Down
+----------
+<i class="bi bi-hand-thumbs-down"></i> (Thumbs Down Button)
+
+Thumbs up
+----------
+<i class="bi bi-hand-thumbs-up"></i> (Thumbs Up Button)
+
+Share
+----------
+<i class="bi bi-share"></i> (Share Button)
+
+Comment
+----------
+<i class="bi bi-chat-square-text"></i> (Comment Button)
+<i class="bi bi-chat-text"></i> (Comment)
+
+Commenter Icon
+----------
+<i class="bi bi-person-circle"></i> (Commenter Icon)
